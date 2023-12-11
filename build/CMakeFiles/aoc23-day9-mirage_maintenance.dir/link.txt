@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic "CMakeFiles/aoc23-day9-mirage_maintenance.dir/main.cpp.o" -o aoc23-day9-mirage_maintenance 
